@@ -1,0 +1,85 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+venv_drf/
+
+# Django-specific files
+db.sqlite3
+*.log
+*.pot
+*.pyc
+.DS_Store
+*.pyo
+*.coverage
+*.pyd
+.Python
+.env
+*.env
+
+# Migrations
+*/migrations/*.py
+*/migrations/*.pyc
+crud_app/migrations/
+
+# Media and static files
+media/
+staticfiles/
+static/
+
+# VSCode and IDE files
+.vscode/
+.idea/
+*.swp
+
+# Git ignore specific
+*.bak
+*.tmp
+
+# Virtual environment
+venv/
+venv_drf/
+# Django-specific files
+db.sqlite3
+*.log
+*.pot
+*.pyc
+.DS_Store
+*.pyo
+*.coverage
+*.pyd
+.Python
+.env
+*.env
+
+# Migrations
+*/migrations/*.py
+*/migrations/*.pyc
+crud_app/migrations/
+
+# Media and static files
+media/
+staticfiles/
+static/
+
+# VSCode and IDE files
+.vscode/
+.idea/
+*.swp
+
+# Test files and coverage
+htmlcov/
+.tox/
+.coverage
+*.cover
+*.egg
+*.eggs
+dist/
+build/
+
+# Git ignore specific
+*.bak
+*.tmp
